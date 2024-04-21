@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 for i in range(8):
     print("слово")
 a,b = 9, 8 
@@ -7,3 +8,6 @@ elif b > a:
     print("b больше чем a")
 else:
     print("a = b")
+=======
+print("я конфликтую")
+>>>>>>> Stashed changes
